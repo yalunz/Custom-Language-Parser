@@ -1,7 +1,7 @@
 ## Run Parser
 
 ```sh
-javacc .jj
+javacc Assignment.jj
 ```
 
 ```sh
